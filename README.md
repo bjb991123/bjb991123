@@ -1,6 +1,6 @@
 
 
-## 🚀 Tech Stack  
+## 🚀 Tech Stacks
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠 주 사용 툴 / Main coworking tools  
+## 🛠 Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2C2255?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
